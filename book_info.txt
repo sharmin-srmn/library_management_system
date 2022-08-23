@@ -1,0 +1,10 @@
+javaa 104 abcd abcd cse 31
+kotlin 105 jhgf jhgf cse 79
+c 101 abcd efgh cse 12
+c++ 102 abdc efgh cse 80
+business 103 abcd abcd BBa 90
+sociology 106 abcd abcd law 12
+python 108 abcd efgh cse 89
+php 107 abcd efgh cse 12
+c# 110 abcd efgh cse 7
+algorithm 109 abcd efgh cse 5
